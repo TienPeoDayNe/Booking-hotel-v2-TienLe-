@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FiFilter, FiSearch, FiMoreVertical } from 'react-icons/fi';
 
 const Guest = () => {
