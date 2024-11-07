@@ -3,7 +3,7 @@ import { FiFilter, FiSearch, FiMoreVertical } from 'react-icons/fi';
 
 const Guest = () => {
   const guestData = [
-    { id: '#5644', name: 'Alexander', roomNumber: 'A647', totalAmount: '$ 467', amountPaid: '$ 200', status: 'Clean' },
+    { id: '#5644', name: 'Alexander', roomNumber: 'A647', totalAmount: '$ 467', amountPaid: '$ 250', status: 'Clean' },
     { id: '#6112', name: 'Pegasus', roomNumber: 'A456', totalAmount: '$ 645', amountPaid: '$ 250', status: 'Dirty' },
     { id: '#6141', name: 'Martin', roomNumber: 'A645', totalAmount: '$ 686', amountPaid: '$ 400', status: 'Dirty' },
     { id: '#6535', name: 'Cecil', roomNumber: 'A684', totalAmount: '$ 8413', amountPaid: '$ 2500', status: 'Inspected' },
